@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="JackpotIW" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SilverStarsSupremeJackpotPOC" enableFreeSpin="N" clientversion="1.0" gameId="300-9023-0" />
+	<GameClient name="JackpotIW" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SilverStarsSupremeJackpotPOC" enableFreeSpin="N" clientversion="1.0" gameId="300-9023-0" />
+	<GameClient name="JackpotIW" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SilverStarsSupremeJackpotPOC" enableFreeSpin="N" clientversion="1.0" gameId="300-9023-0" />
+</ClientConfig>

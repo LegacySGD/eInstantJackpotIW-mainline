@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameParams
+	xmlns="http://www.igt.com/gle/xml/io"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<GameId>JackpotIW</GameId>
+	<MinimumBetAmount>0.01</MinimumBetAmount>
+	<MaximumBetAmount>999999999</MaximumBetAmount>
+	<DenomAmount>0.01</DenomAmount>
+	<CurrencyCode>GBP</CurrencyCode>
+	<LanguageCode>en_US</LanguageCode>
+	<BetMultipliers>50</BetMultipliers>
+	<BetMultipliers>2000</BetMultipliers>	
+	<AwardCapValue>250000</AwardCapValue>
+</GameParams>
